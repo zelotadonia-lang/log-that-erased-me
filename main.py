@@ -6,7 +6,9 @@ fixing its own bugs to /output/entry.txt.
 
 The line: the log started writing its own entries at 2:13am, and the
 last one says the agent never existed. One deadpan setup, one dark
-existential sting in the last words.
+existential sting in the last words. The line won a blind-judged
+tournament of 28 candidates over two rounds, then passed a calibration
+gate 2-0 against the 0.752-scoring fortune-cookie winner.
 """
 
 from pathlib import Path
